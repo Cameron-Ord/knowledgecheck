@@ -1,6 +1,10 @@
 .class1{
 background-color: blue;
 padding: 5px 10px;
+border-style: solid;
+border-color: crimson;
+border-width: 40px;
+border-radius: 20px;
 }
 
 .class2{
@@ -9,10 +13,16 @@ padding-top: 5px;
 padding-bottom: 5px;
 padding-left: 10px;
 padding-right: 10px;
+border-style: ridge;
+border-color: darkblue;
+border-width: 10px;
 }
 
 
 .class3{
 background-color: darkred;
 padding: 5px 10px;
+border-color: aqua;
+border-style: groove;
+border-width: 25px;
 }
